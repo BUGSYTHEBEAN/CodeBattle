@@ -5,4 +5,4 @@ Team Members:
 Solly Parenti sparenti@wisc.edu, 
 Andrei Freund avfreund@wisc.edu, 
 Zhiyuan Lei zlei23@wisc.edu,
-Xioyang Song
+Xiaoyang Song xsong65@wisc.edu.
